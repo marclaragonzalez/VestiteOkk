@@ -1,0 +1,63 @@
+
+.colorfondo{
+    background-color: darkgray;
+}
+
+.colorfondodos{
+    color: honeydew;
+    background-color: blueviolet;
+}
+
+.botonbuscador{
+    color: honeydew;
+    background-color: blueviolet;
+    
+}
+
+.botonbuscador:hover{
+background-color: mediumslateblue;
+}
+
+.fixed-bottom{
+    color:tomato;
+
+}
+
+.logogrande{
+margin-left: 350px;
+grid-area: logogrande;
+}
+
+.fondofooter{
+    grid-area: footer;
+    background-color: dimgrey;
+}
+
+
+
+.bienvenida{
+
+    align-items: center;
+    justify-content: center;
+    margin: 100px;
+    grid-area: bienvenida;
+    color: honeydew;
+    background-color: mediumslateblue;
+    
+
+}
+
+.bienvenidados{
+    background-color: blueviolet;
+    color: ivory;
+    margin: 400px;
+    font-size: 5px;
+}
+
+
+.quienessomos{
+    text-decoration: none;
+    color: tomato;
+}
+
+
